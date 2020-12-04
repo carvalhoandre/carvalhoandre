@@ -5,7 +5,7 @@
 
 <p align="left">:computer:Desenvolvendo conhecimentos em: <strong>Java, PHP, Python, CSS e HTML5</strong></p>
 
-:speech_balloon:<p align="left"><em>Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: </em>:arrow_down:</p>
+<p align="left"><em>:speech_balloon:Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: </em>:arrow_down:</p>
 
 <p align="left"> 
     <a href="mailto:andre_carvalho0@live.com?Subject=Olá André" rel="prev"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/email_open_24px.png"></a>
