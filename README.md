@@ -1,11 +1,13 @@
-<p align="left">Olá, sou André, <strong>estudante de Ciências da Computação</strong> 5° semestre.</p>
-<p align="left"><em>Futuro desenvolvedor</em></p>
+<img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/logo.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left">Olá, sou André, <strong>estudante de Ciências da Computação</strong> 5° semestre. Amante da tecnologia e viciado em games.</p>
+<p align="left"><em>Futuro DEV :speech_balloon:</em></p>
 
 <p align="left">:wrench:Ferramentas utilizadas:  <strong>SpringToolSuite4,Visual Studio Code, PyCharm e Postman</strong></p>
 
 <p align="left">:computer:Desenvolvendo conhecimentos em: <strong>Java, PHP, Python, CSS e HTML5</strong></p>
 
-<p align="left"><em>:speech_balloon:Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: </em>:arrow_down:</p>
+<p align="left"><em>Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: </em>:arrow_down:</p>
 
 <p align="left"> 
     <a href="mailto:andre_carvalho0@live.com?Subject=Olá André" rel="prev"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/email_open_24px.png"></a>
