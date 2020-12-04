@@ -12,5 +12,4 @@
     <a href="https://www.instagram.com/slc_andre/" rel="prev"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/instagram_30px.png"></a>
     <a href="https://www.facebook.com/AndreCarvalho0" rel="prev"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/facebook_26px.png"></a>
     <a href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" rel="prev"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/linkedin_32px.png"></a>
-    <a class="small text-black-50"><a href="callto:55 11 949245875"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/phone_24px.png"></a></a>
 </p>
