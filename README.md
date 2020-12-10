@@ -9,7 +9,7 @@
 <p align="left"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/computer_support_240px.png" alt="Ferramenta"> Ferramentas:</p>
 <p><strong>Java (Maven, Spring Boot), PHP (Composer) e Python, Ionic, Bootstrap, HTML e CSS.</strong></p>
 
-<p align="left"><em>Para projetos, parcerias, estágio; CLT, entre em contato através de Linkedin, Facebook: </em>:arrow_down:</p>
+<p align="left"><em>Para projetos, troca de conhecimentos, parcerias, estágio; CLT, entre em contato através de Linkedin, Facebook e E-mail: </em>:arrow_down:</p>
 
 <p align="right"> 
     <a href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_blank" rel="external"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/email_open_24px.png" min-width="50px" max-width="50px" width="50px" align="right" alt="e-mail"></a>
