@@ -3,10 +3,10 @@
 <p align="left">Olá, sou André, <strong>estudante de Ciências da Computação</strong> 5° semestre. Amante da tecnologia e de games</p>
 <p align="left"><em>Futuro DEV :speech_balloon:</em></p>
 
-<img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/brainstorm_skill_240px.png" alt="config"><p align="left"> Desenvolvendo conhecimentos em:</p>
+<p align="left"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/brainstorm_skill_240px.png" alt="config"> Desenvolvendo conhecimentos em:</p>
 <p><strong>Java (Maven, Spring Boot), PHP (Composer) e Python, Ionic, Bootstrap, HTML e CSS.</strong></p>
 
-<img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/computer_support_240px.png" alt="Ferramenta"><p align="left"> Ferramentas:</p>
+<p align="left"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/computer_support_240px.png" alt="Ferramenta"> Ferramentas:</p>
 <p><strong>Java (Maven, Spring Boot), PHP (Composer) e Python, Ionic, Bootstrap, HTML e CSS.</strong></p>
 
 <p align="left"><em>Para projetos, parcerias, estágio; CLT, entre em contato através de Linkedin, Facebook e E-mail para isso utilize ícones: </em>:arrow_down:</p>
