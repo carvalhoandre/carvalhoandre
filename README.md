@@ -4,12 +4,13 @@
 <p align="left"><em>Futuro DEV :speech_balloon:</em></p>
 
 <p align="left"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/brainstorm_skill_240px.png" alt="config"> Desenvolvendo conhecimentos em:</p>
-<p><strong>Java (Maven, Spring Boot), PHP (Composer) e Python, Ionic, Bootstrap, HTML e CSS.</strong></p>
+<p><strong>Java (Maven, Spring Boot), PHP (Composer), Python, Ionic, Bootstrap, HTML e CSS.</strong></p>
 
 <p align="left"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/computer_support_240px.png" alt="Ferramenta"> Ferramentas:</p>
-<p><strong>Java (Maven, Spring Boot), PHP (Composer) e Python, Ionic, Bootstrap, HTML e CSS.</strong></p>
 
-<p align="left"><em>Para projetos, troca de conhecimentos, parcerias, estágio; CLT, entre em contato através de Linkedin, Facebook e E-mail: </em>:arrow_down:</p>
+[GIT](https://git-scm.com/),[Visual Studio Code](https://code.visualstudio.com/), [Spring Tools 4](https://spring.io/tools), [PyCharm](https://www.jetbrains.com/pt-br/pycharm/), [Pichon](https://www.microsoft.com/pt-br/p/pichon-free-icons/9nk8t1kshffr?activetab=pivot:overviewtab), [Postman](https://www.postman.com/) e [DBeaver](https://dbeaver.io/)
+
+<p align="left"><em>Para projetos, troca de conhecimentos, parcerias, estágio; CLT, me encontre no Linkedin, Facebook, ou mande um E-mail: </em>:arrow_down:</p>
 
 <p align="right"> 
     <a href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_blank" rel="external"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/email_open_24px.png" min-width="50px" max-width="50px" width="50px" align="right" alt="e-mail"></a>
