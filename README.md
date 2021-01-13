@@ -1,4 +1,10 @@
-<img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/logo.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Logo_andre">
+<img 
+    src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/logo.png" 
+    min-width="250px" 
+    max-width="250px" 
+    width="250px" 
+    align="right" 
+    alt="Logo_andre">
 
 <p align="left">Olá, sou André, <strong>estudante de Ciências da Computação</strong> 5° semestre. Amante da tecnologia e de games</p>
 <p align="left"><em>Futuro DEV :speech_balloon:</em></p>
@@ -10,10 +16,13 @@
 
 [GIT](https://git-scm.com/),[Visual Studio Code](https://code.visualstudio.com/), [Spring Tools 4](https://spring.io/tools), [PyCharm](https://www.jetbrains.com/pt-br/pycharm/), [Pichon](https://www.microsoft.com/pt-br/p/pichon-free-icons/9nk8t1kshffr?activetab=pivot:overviewtab), [Postman](https://www.postman.com/) e [DBeaver](https://dbeaver.io/)
 
-<p align="left"><em>Para projetos, troca de conhecimentos, parcerias, estágio; CLT, me encontre no Linkedin, Facebook, ou mande um E-mail: </em>:arrow_down:</p>
+<p align="left"><em>Para projetos, troca de conhecimentos, parcerias: </em>:arrow_down:</p>
 
-<p align="right"> 
-    <a href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_blank" rel="external"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/email_open_24px.png" min-width="50px" max-width="50px" width="50px" align="right" alt="e-mail"></a>
-    <a href="https://www.facebook.com/AndreCarvalho0" target="_blank" rel="external"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/facebook_26px.png" min-width="30px" max-width="30px" width="30px" align="right" alt="facebook"></a>
-    <a href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_blank" rel="external"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/linkedin_32px.png" min-width="50px" max-width="50px" width="50px" align="right" alt="linkedin"></a>
-</p>
+<a href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_blank" rel="external"><img             src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/email_open_24px.png" min-width="50px" max-width="50px" width="50px" align="left" alt="e-mail"></a>
+
+<a href="https://www.facebook.com/AndreCarvalho0" target="_blank" rel="external"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/facebook_26px.png" min-width="30px" max-width="30px" width="30px" align="left" alt="facebook"></a>
+    
+<a href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_blank" rel="external"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/linkedin_32px.png" min-width="50px" max-width="50px" width="50px" align="left" alt="linkedin"></a>
+
+<img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/discord.png" min-width="70px" max-width="70px" width="70px" align="left">
+<p align="left"><em>#3010</em></p>
