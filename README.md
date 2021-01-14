@@ -1,20 +1,21 @@
 <img 
     src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/logo.png" 
-    min-width="150" 
-    max-width="150" 
-    width="150" 
+    min-width="225" 
+    max-width="225" 
+    width="225" 
     align="right" 
     alt="Logo_andre">
 
 <p align="left">Olá, sou André, <strong>estudante de Ciências da Computação</strong> 5° semestre. Amante da tecnologia e de games</p>
+
 <p align="left"><em>Futuro DEV :speech_balloon:</em></p>
 
 <p align="left"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/brainstorm_skill_240px.png" alt="config"> Desenvolvendo conhecimentos em:</p>
-<p><strong>Java (Maven, Spring Boot), PHP (Composer), Python, Ionic, Bootstrap, HTML e CSS.</strong></p>
+<p><strong>Java <em>(Maven, Spring Boot)</em>, Ionic, Python, React, HTML e CSS.</strong></p>
 
 <p align="left"><img src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/computer_support_240px.png" alt="Ferramenta"> Ferramentas:</p>
 
-[GIT](https://git-scm.com/),[Visual Studio Code](https://code.visualstudio.com/), [Spring Tools 4](https://spring.io/tools), [PyCharm](https://www.jetbrains.com/pt-br/pycharm/), [Pichon](https://www.microsoft.com/pt-br/p/pichon-free-icons/9nk8t1kshffr?activetab=pivot:overviewtab), [Postman](https://www.postman.com/) e [DBeaver](https://dbeaver.io/)
+[GIT](https://git-scm.com/), [Visual Studio Code](https://code.visualstudio.com/), [Spring Tools 4](https://spring.io/tools), [PyCharm](https://www.jetbrains.com/pt-br/pycharm/), [Pichon](https://www.microsoft.com/pt-br/p/pichon-free-icons/9nk8t1kshffr?activetab=pivot:overviewtab), [Postman](https://www.postman.com/) e [DBeaver](https://dbeaver.io/)
 
 <p align="right"><em>Para projetos, troca de conhecimentos, parcerias: </em>:arrow_down:</p>
 
