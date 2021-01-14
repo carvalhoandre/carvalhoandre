@@ -1,8 +1,8 @@
 <img 
     src="https://github.com/carvalhoandre/carvalhoandre/blob/main/img/logo.png" 
-    min-width="225" 
-    max-width="225" 
-    width="225" 
+    min-width="150" 
+    max-width="150" 
+    width="150" 
     align="right" 
     alt="Logo_andre">
 
