@@ -11,7 +11,7 @@
 <p align="left"><em>Futuro DEV :speech_balloon:</em></p>
 
 <p align="left"><img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/brainstorm_skill_240px.png" alt="config"> Desenvolvendo conhecimentos em:</p>
-<p><strong>Java <em>(Maven, Spring Boot)</em>, Ionic, Python, React, HTML e CSS.</strong></p>
+<p><strong>Java <em>(Maven, Spring Boot)</em>, Python, Ionic, React Native, Expo, HTML e CSS.</strong></p>
 
 <p align="left"><img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/computer_support_240px.png" alt="Ferramenta"> Ferramentas:</p>
 
