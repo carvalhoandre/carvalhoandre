@@ -1,5 +1,5 @@
 <img 
-    src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logo.png" 
+    src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/adaptive-icon.png"
     min-width="150" 
     max-width="150" 
     width="150" 
