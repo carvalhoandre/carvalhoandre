@@ -1,8 +1,8 @@
 <img 
     src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/adaptive-icon.png"
-    min-width="250" 
-    max-width="250" 
-    width="150" 
+    min-width="250"
+    max-width="250"
+    width="250"
     align="right" 
     alt="Logo_andre">
     
