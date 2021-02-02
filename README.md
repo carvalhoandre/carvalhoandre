@@ -6,9 +6,14 @@
     align="right" 
     alt="Logo_andre">
     
- # Welcome!
+# Welcome!
+# I'm André! Let me present a little about myself
 
-# I'm André student computer science student 
+Student computer science :mortar_board:
+
+Future developer :star:
+
+Lover of Technology, coding and games :heart_eyes:
 
 <p align="left"><img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/brainstorm_skill_240px.png" alt="config"> <strong> knowledge development in </strong></p>
 <p align="left">
