@@ -8,7 +8,7 @@
     
  # Welcome!
 
-## I'm André student computer science student 
+# I'm André student computer science student 
 
 <p align="left"><img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/brainstorm_skill_240px.png" alt="config"> <strong> knowledge development in </strong></p>
 <p align="left">
