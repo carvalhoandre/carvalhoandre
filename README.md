@@ -14,15 +14,19 @@
 <p align="left">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    
 </p>
 
 <p align="left"><img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/computer_support_240px.png" alt="Ferramenta"><strong> Tools </strong></p>
-
-[GIT](https://git-scm.com/), [Visual Studio Code](https://code.visualstudio.com/), [Spring Tools 4](https://spring.io/tools), [PyCharm](https://www.jetbrains.com/pt-br/pycharm/), [Pichon](https://www.microsoft.com/pt-br/p/pichon-free-icons/9nk8t1kshffr?activetab=pivot:overviewtab), [Postman](https://www.postman.com/) e [DBeaver](https://dbeaver.io/)
+<p align="left">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</p>
+    
 
 ## About me
 
