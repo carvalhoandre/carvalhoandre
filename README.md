@@ -1,8 +1,8 @@
 <img 
     src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/padrao.png"
-    min-width="125"
-    max-width="125"
-    width="150"
+    min-width="225"
+    max-width="225"
+    width="200"
     align="right" 
     alt="Logo_andre">
     
