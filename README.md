@@ -37,6 +37,13 @@ Lover of Technology, coding and games :heart_eyes:
 ## Contact me
 
 <a href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_blank" rel="external"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="e-mail"></a><a href="https://www.facebook.com/AndreCarvalho0" target="_blank" rel="external"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"></a><a href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_blank" rel="external"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<img 
+    src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/WhatsApp+Image+2021-02-08+at+15.10.13.jpeg"
+    min-width="95"
+    max-width="95"
+    width="75"
+    align="right" 
+    alt="Logo_andre">
 
 #
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalhoandre)](https://github.com/anuraghazra/github-readme-stats)
