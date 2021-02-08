@@ -1,13 +1,14 @@
 <img 
     src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/padrao.png"
-    min-width="200"
-    max-width="200"
-    width="200"
+    min-width="125"
+    max-width="125"
+    width="150"
     align="right" 
     alt="Logo_andre">
     
-# Welcome!
-# I'm André! Let me present a little about myself
+ <strong>Welcome!</strong>
+ #
+ <strong>I'm André! Let me present a little about myself</strong>
 
 Student computer science :mortar_board:
 
@@ -36,7 +37,6 @@ Lover of Technology, coding and games :heart_eyes:
 
 ## Contact me
 
-<a href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_blank" rel="external"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="e-mail"></a><a href="https://www.facebook.com/AndreCarvalho0" target="_blank" rel="external"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"></a><a href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_blank" rel="external"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <img 
     src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/WhatsApp+Image+2021-02-08+at+15.10.13.jpeg"
     min-width="95"
@@ -44,6 +44,7 @@ Lover of Technology, coding and games :heart_eyes:
     width="75"
     align="right" 
     alt="Logo_andre">
+<a href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_blank" rel="external"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="e-mail"></a><a href="https://www.facebook.com/AndreCarvalho0" target="_blank" rel="external"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"></a><a href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_blank" rel="external"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 
 #
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalhoandre)](https://github.com/anuraghazra/github-readme-stats)
