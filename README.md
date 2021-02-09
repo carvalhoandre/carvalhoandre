@@ -36,7 +36,7 @@ Lover of Technology, coding and games :heart_eyes:
 </p>
 
 ## Contact me
-<a href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_blank" rel="external"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="e-mail"></a><a href="https://www.facebook.com/AndreCarvalho0" target="_blank" rel="external"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"></a><a href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_blank" rel="external"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_new" rel="external"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="e-mail"></a><a href="https://www.facebook.com/AndreCarvalho0" target="_new" rel="external"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"></a><a href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_new" rel="external"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 
 - Thanks for visiting.
 
