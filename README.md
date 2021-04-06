@@ -23,8 +23,9 @@ Lover of Technology, coding and games :heart_eyes:
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhoandre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"><img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/computer_support_240px.png" alt="Ferramenta"><strong> Tools </strong></p>
 <p align="left">
