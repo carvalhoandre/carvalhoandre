@@ -5,10 +5,10 @@
     width="200"
     align="right" 
     alt="Logo_andre">
+
 ##  Welcome!
  <strong>I'm André! Let me present a little about myself</strong>
 <p align="left"><img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/brainstorm_skill_240px.png" alt="config"> <strong> knowledge development in </strong></p>
-<p align="left"><img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logo.png" alt="config"> <strong> knowledge development in </strong></p>
 <p align="left">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
