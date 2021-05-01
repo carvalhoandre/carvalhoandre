@@ -33,12 +33,10 @@
 
 
 <h3 align = "center">for contact me</h3>
-<h4 align="center"> just click :arrow_heading_down:</strong></h4>
-<div  align = "center">
+<h5 align="center"> just click :arrow_heading_down:</strong></h5>
 
 <a align = "center" href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_new" rel="external"><img align = "center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit" alt="e-mail"></a>
 <a align = "center" href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_new" rel="external"><img align = "center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-
  
  <h4 align = "center">Thanks for visiting. Enjoy it!!! :v:</h4>
  
