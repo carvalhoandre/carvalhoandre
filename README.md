@@ -1,12 +1,12 @@
 <span align="center">
  
- <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align="center" alt="Logo Andre" position="absolute">
+ <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align="right" alt="Logo Andre" position="absolute">
  
  
  <strong><h1 align = "center" > Welcome! 👋, I'm André!</h1> </strong>
  <h3 align = "center">Let me present a little about myself :rocket:</h3>
 
-<h4 align="center"><strong> knowledge development in :bulb:</strong></h4>
+<h2 align="center"><strong> knowledge development in :bulb:</strong></h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -19,14 +19,14 @@
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 </p>
 
-<h4 align="center">Tools :wrench: </strong></h4>
+<h2 align="center">Tools :wrench: </strong></h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">    
 </p>
 
-<h4 align="center"> GitHub Stats :fire:</strong></h4>
+<h2 align="center"> GitHub Stats :fire:</strong></h2>
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/carvalhoandre/carvalhoandre)
 
