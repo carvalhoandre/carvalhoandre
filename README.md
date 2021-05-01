@@ -1,6 +1,6 @@
 <span align="center">
  
- <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align="center" alt="Logo Andre">
+ <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align="right" alt="Logo Andre">
  
  
  <strong><h1 align = "center" > Welcome! 👋, I'm André!</h1> </strong>
@@ -28,17 +28,14 @@
 
 <h4 align="center"> GitHub Stats :fire:</strong></h4>
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/carvalhoandre/carvalhoandre)
-
 [![carvalhoandre](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhoandre&hide=html&layout=compact&theme=dark)](https://github.com/carvalhoandre/)
-
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/carvalhoandre/carvalhoandre)
 
 <h3 align = "center">for contact me</h3>
 <h4 align="center"> just click :arrow_heading_down:</strong></h4>
 <div  align = "center">
 
 <a align = "center" href="mailto:andre_carvalho0@live.com?Subject=Olá André" target="_new" rel="external"><img align = "center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit" alt="e-mail"></a>
-
 <a align = "center" href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_new" rel="external"><img align = "center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 
  
