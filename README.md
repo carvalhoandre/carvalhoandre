@@ -1,5 +1,8 @@
 <span align="center">
- <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align = "center" > 
+ 
+ <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align="center" alt="Logo Andre">
+ 
+ 
  <strong><h1 align = "center" > Welcome! 👋, I'm André!</h1> </strong>
  <h3 align = "center">Let me present a little about myself :rocket:</h3>
 
