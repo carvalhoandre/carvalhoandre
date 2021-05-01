@@ -1,6 +1,6 @@
 <span align="center">
  
- <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align="right" alt="Logo Andre">
+ <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align="center" alt="Logo Andre" position="absolute">
  
  
  <strong><h1 align = "center" > Welcome! 👋, I'm André!</h1> </strong>
@@ -28,8 +28,10 @@
 
 <h4 align="center"> GitHub Stats :fire:</strong></h4>
 
-[![carvalhoandre](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhoandre&hide=html&layout=compact&theme=dark)](https://github.com/carvalhoandre/)
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/carvalhoandre/carvalhoandre)
+
+[![carvalhoandre](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhoandre&hide=html&layout=compact&theme=dark)](https://github.com/carvalhoandre/)
+
 
 <h3 align = "center">for contact me</h3>
 <h4 align="center"> just click :arrow_heading_down:</strong></h4>
