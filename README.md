@@ -1,9 +1,12 @@
 <span align="center">
  
- <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align="right" alt="Logo Andre" position="absolute">
- 
- 
  <strong><h1 align = "center" > Welcome! 👋, I'm André!</h1> </strong>
+ 
+   <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  <image src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen />
+ </div>
+ 
+ 
  <h3 align = "center">Let me present a little about myself :rocket:</h3>
 
 <h2 align="center"><strong> knowledge development in :bulb:</strong></h2>
@@ -40,4 +43,7 @@
  
  <h4 align = "center">Thanks for visiting. Enjoy it!!! :v:</h4>
  
+  
+ <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align="right" alt="Logo Andre" position="absolute">
+
  </span>
