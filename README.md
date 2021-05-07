@@ -3,7 +3,7 @@
  <strong><h1 align = "center" > Welcome! 👋, I'm André!</h1> </strong>
  
    <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-  <image src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen />
+  <image src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="25%" height="25%" style="position:absolute" frameBorder="0" class="giphy-embed" background-color="black" allowFullScreen />
  </div>
  
  
