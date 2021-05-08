@@ -43,7 +43,8 @@
  
  <h4 align = "center">Thanks for visiting. Enjoy it!!! :v:</h4>
  
-  
- <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="125px" align="right" alt="Logo Andre" position="absolute">
+ <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logogithub.png" width="85px" alt="Logo Andre" position="absolute">
+</div>
 
  </span>
