@@ -5,7 +5,7 @@
 </h2>
 
 <h4 align="center"> 
- <strong>I'm a  future  developer :dart:</strong>
+ <strong>future  developer :dart:</strong>
 </h4>
 
 <h3 align="auto">
