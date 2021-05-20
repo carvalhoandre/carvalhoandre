@@ -5,7 +5,7 @@
 </h2>
 
 <h4 align="center"> 
- <strong>Developer designs and implements in React and React Native, using Java for backend</strong>
+ <strong>I'm a  future  developer :dart:</strong>
 </h4>
 
 <h3 align="auto">
