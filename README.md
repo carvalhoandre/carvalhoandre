@@ -32,12 +32,6 @@
     <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=white">  
 </p>
 
-<h3 align="auto"> <strong>GitHub Stats :fire:</strong></h3>
-
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/carvalhoandre/carvalhoandre)
-
-
-
 <p align="auto">
  <stong>for contact me </strong>
  just click :arrow_heading_down:
