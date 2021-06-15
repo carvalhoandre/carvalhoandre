@@ -4,10 +4,6 @@
   Welcome! 👋, I'm André!
 </h2>
 
-<h4 align="center"> 
- <strong>future  developer :dart:</strong>
-</h4>
-
 <h3 align="auto">
  <strong> Knowledge development in :bulb: </strong>
 </h3>
