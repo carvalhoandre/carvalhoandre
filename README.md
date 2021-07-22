@@ -1,7 +1,12 @@
 <span align="center">
 
+  
+<div style="width:100%;height:100%;padding-bottom:75%;position:relative;">
+  <img src="https://raw.githubusercontent.com/carvalhoandre/carvalhoandre/main/assets/Sem%20T%C3%ADtulo-2.jpg" alt="Logo Andre" position="absolute">
+</div>
+  
 <h2 align="center"> 
-  Welcome! 👋, I'm André!
+  Welcome! 👋
 </h2>
 
 <h3 align="auto">
@@ -14,7 +19,6 @@
     <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=react-router&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
@@ -40,10 +44,5 @@
 
  <h4 align = "center">Thanks for visiting. Enjoy it!!! :v:</h4>
  
- 
- <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-  <img src="https://carvalhoandre.s3-sa-east-1.amazonaws.com/github/logoP.png" width="85px" alt="Logo Andre" position="absolute">
-</div>
-
  </span>
 
