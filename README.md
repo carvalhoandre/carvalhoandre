@@ -2,7 +2,9 @@
 
   
 <div style="width:100%;height:100%;padding-bottom:75%;position:relative;">
-  <img src="https://raw.githubusercontent.com/carvalhoandre/carvalhoandre/main/assets/Sem%20T%C3%ADtulo-2.jpg" alt="Logo Andre" position="absolute">
+  <a href="https://andrelcarvalho.netlify.app" alt="portifolio">
+    <img src="https://raw.githubusercontent.com/carvalhoandre/carvalhoandre/main/assets/Sem%20T%C3%ADtulo-2.jpg" alt="Logo Andre" position="absolute">
+  </a>
 </div>
   
 <h2 align="center"> 
