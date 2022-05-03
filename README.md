@@ -1,38 +1,37 @@
 <span align="center">
 
-  
+<h3 align="center"> 
+  Welcome! 👋
+</h3>
+<hr />
+
 <div style="width:100%;height:100%;padding-bottom:75%;position:relative;">
   <a href="https://andrelcarvalho.netlify.app" alt="portifolio">
-    <img src="https://raw.githubusercontent.com/carvalhoandre/carvalhoandre/main/assets/Sem%20T%C3%ADtulo-2.jpg" alt="Logo Andre" position="absolute">
+    <img src="https://raw.githubusercontent.com/carvalhoandre/carvalhoandre/main/assets/Sem%20T%C3%ADtulo-2.jpg" alt="Logo Andre" width="800px">
   </a>
 </div>
-  
-<h2 align="center"> 
-  Welcome! 👋
-</h2>
-
-<h3 align="auto">
+<h4 align="auto">
  <strong> Knowledge development in :bulb: </strong>
-</h3>
+</h4>
 
-<p align="auto">
+<div align="auto">
     <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
+</div>
 
-<h3 align="auto">
+<h4 align="auto">
  <strong> Tools :wrench:</strong>
-</h3>
+</h4>
 
-<p align="auto">
+<div align="auto">
     <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon_AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=white">  
-</p>
+</div>
 
 <p align="auto">
  <stong>for contact me </strong>
