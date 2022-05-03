@@ -1,7 +1,7 @@
 <span align="center">
 
 <h3 align="center"> 
-  Welcome! 👋
+  Hi there! 😁
 </h3>
 <hr />
 
