@@ -6,7 +6,7 @@
 
 <div style="width:100%;height:100%;padding-bottom:75%;position:relative;">
   <a href="https://andrelcarvalho.netlify.app" alt="portifolio">
-    <img src="https://raw.githubusercontent.com/carvalhoandre/carvalhoandre/main/assets/Sem%20T%C3%ADtulo-2.jpg" alt="Logo Andre" width="800px">
+    <img src="https://raw.githubusercontent.com/carvalhoandre/carvalhoandre/main/assets/Sem%20T%C3%ADtulo-2.jpg" alt="Logo Andre" width="600px">
   </a>
 </div>
 <h4 align="auto">
