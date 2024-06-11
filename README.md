@@ -14,12 +14,11 @@
 </h4>
 
 <div align="auto">
-    <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 <h4 align="auto">
