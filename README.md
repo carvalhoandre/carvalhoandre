@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white">
     <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
