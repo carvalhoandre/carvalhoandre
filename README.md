@@ -1,10 +1,6 @@
 <span align="center">
 
-<h3 align="center"> 
-  Hi there! 😁
-</h3>
-
- ###
+#  Hi there! 😁
  
 <div style="width:100%;height:100%;padding-bottom:75%;position:relative;">
   <a href="https://andrelcarvalho.netlify.app" alt="portifolio">
@@ -14,9 +10,8 @@
 
  ###
  
-<h4 align="auto">
- <strong> Knowledge development in :bulb: </strong>
-</h4>
+## Knowledge development in :bulb:
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -57,10 +52,7 @@
 
  ###
  
-<p align="auto">
- <stong>for contact me </strong>
- just click :arrow_heading_down:
-</p>
+## For contact me just click :arrow_heading_down:
 
 <p align="auto">
   <a align = "center" href="mailto:carvalho.devel@gmail.com?Subject=Olá André" target="_new" rel="external"><img align = "center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail"></a>
@@ -68,10 +60,5 @@
  <a align = "center" href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_new" rel="external"><img align = "center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </p>  
 
- <h4 align = "center">Thanks for visiting. Enjoy it!!! :v:</h4>
-
-
-###
-
+ ### Thanks for visiting. Enjoy it!!! :v:
  </span>
-
