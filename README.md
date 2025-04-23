@@ -2,9 +2,9 @@
 
 # Hi there!
  
-Software Developer specializing in full-stack development building scalable and efficient web nad mobile applications.
+Software Developer specializing in full-stack development building scalable and efficient web and mobile applications.
 
-Expanding my expertise in **Big Data & Analytics** and **Blockchain** to solve complex data-driven challenges.
+Expanding my expertise in **Big Data & Analytics** to solve complex data-driven challenges.
 
 For contact me just click :arrow_heading_down:
 
@@ -17,4 +17,3 @@ For contact me just click :arrow_heading_down:
   </a>
 
 Thanks for visiting. Enjoy it!!!
-
