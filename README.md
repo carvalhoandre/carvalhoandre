@@ -1,19 +1,22 @@
+### Hi, I'm André Leite Carvalho 👋
+#### Software Developer | Full-Stack&nbsp
 
+#### 👨‍💻 About Me
 
-# Hi there!
- 
-Software Developer specializing in full-stack development building scalable and efficient web and mobile applications.
+I’m a software developer passionate about creating scalable, efficient, high-impact web and mobile applications. I have end-to-end experience, from building robust back-ends to crafting modern, responsive interfaces.
 
-Expanding my expertise in **Big Data & Analytics** to solve complex data-driven challenges.
+#### 📫 Let’s Connect
 
-For contact me just click :arrow_heading_down:
-
-  <a href="mailto:carvalho.devel@gmail.com?Subject=Olá André" target="_new" rel="external">
+<p>
+  <a href="mailto:carvalho.devel@gmail.com?Subject=Hello André" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
   </a>
-  
-  <a href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_new" rel="external">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-leite-carvalho-b77721146/" target="_blank" rel="external">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://andreleitecarvalho.space/" target="_blank" rel="external">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="portfolio">
+  </a>
+</p>
 
-Thanks for visiting. Enjoy it!!!
+Thanks for stopping by! 🚀
