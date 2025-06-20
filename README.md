@@ -1,5 +1,5 @@
 ### Hi, I'm André Leite Carvalho 👋
-#### Software Developer | Full-Stack&nbsp
+#### Software Developer | Full-Stack
 
 #### 👨‍💻 About Me
 
