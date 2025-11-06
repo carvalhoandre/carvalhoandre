@@ -1,11 +1,11 @@
-### Hi, I'm André Leite Carvalho 👋
+### Hi, I'm André Leite Carvalho
 #### Software Developer | Full-Stack
 
-#### 👨‍💻 About Me
+#### About Me
 
 I’m a software developer passionate about creating scalable, efficient, high-impact web and mobile applications. I have end-to-end experience, from building robust back-ends to crafting modern, responsive interfaces.
 
-#### 📫 Let’s Connect
+#### Let’s Connect
 
 <p>
   <a href="mailto:carvalho.devel@gmail.com?Subject=Hello André" target="_blank" rel="external">
