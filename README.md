@@ -1,9 +1,8 @@
 # Hey there, I'm André 👋
 
-### Full-Stack Developer 
+### Developer 
 
-I’m a software developer who enjoys turning ideas into polished web and mobile experiences.
-From backend architecture to frontend details, I like working across the stack and shipping things that actually matter.
+Frontend Specialist with experience in React, React Native and Angular, expanding into Full Stack Development through Node.js and Open Finance projects.
 
 ### Let’s connect
 <p>
